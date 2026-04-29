@@ -1,6 +1,6 @@
 # Intelligent Web Crawling System for Job Market Analysis
 
-An adaptive web crawler that uses Q-learning and Multi-Armed Bandits to intelligently discover and classify job listings from multiple job sites.
+An adaptive web crawler that uses Q-learning and Multi-Armed Bandits to intelligently discover and classify job listings from multiple job sites. Re-uploading project as part of university coursework
 
 ---
 
