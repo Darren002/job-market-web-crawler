@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+*.pyo
+
+# Crawler output
+output/
+visited.txt
+job_pages.txt
+crawl_map.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
